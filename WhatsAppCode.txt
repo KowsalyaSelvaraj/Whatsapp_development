@@ -6,3 +6,4 @@ Author : Kowsalya S
 3. Chat screen code
 4. Last seen code 
 5. Attachments code - Image, Audio, video
+6. Hiding Last seen
