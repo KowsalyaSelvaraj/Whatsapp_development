@@ -7,3 +7,5 @@ Author : Kowsalya S
 4. Last seen code 
 5. Attachments code - Image, Audio, video
 6. Hiding Last seen
+7. Audio call feature adde 
+8. Video call feature added
