@@ -1,2 +1,0 @@
-This is the website for learning java programming
-https://www.geeksforgeeks.org/java-programming-examples/
