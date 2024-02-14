@@ -1,0 +1,56 @@
+//array List
+ Write a Java program to create an array list, add some colors (strings) and print out the collection.
+Click me to see the solution
+
+2. Write a Java program to iterate through all elements in an array list.
+Click me to see the solution
+
+3. Write a Java program to insert an element into the array list at the first position.
+Click me to see the solution
+
+4. Write a Java program to retrieve an element (at a specified index) from a given array list.
+Click me to see the solution
+
+5. Write a Java program to update an array element by the given element.
+Click me to see the solution
+
+
+//Hash Set
+Write a Java program to append the specified element to the end of a hash set.
+Click me to see the solution
+
+2. Write a Java program to iterate through all elements in a hash list.
+Click me to see the solution
+
+3. Write a Java program to get the number of elements in a hash set.
+Click me to see the solution
+
+4. Write a Java program to empty an hash set.
+Click me to see the solution
+
+5. Write a Java program to test if a hash set is empty or not.
+Click me to see the solution
+
+//hashMap
+Write a Java program to associate the specified value with the specified key in a HashMap.
+Click me to see the solution
+
+2. Write a Java program to count the number of key-value (size) mappings in a map.
+Click me to see the solution
+
+3. Write a Java program to copy all mappings from the specified map to another map.
+Click me to see the solution
+
+4. Write a Java program to remove all mappings from a map.
+Click me to see the solution
+
+5. Write a Java program to check whether a map contains key-value mappings (empty) or not.
+Click me to see the solution
+
+
+//Java Programs for String 
+Write a Java Program to reverse a string
+Write a java program to count the number of words in a string
+Write a java program to reverse each word of a given string
+replace vowels with special character
+remove leading and tailing spaces without trim
